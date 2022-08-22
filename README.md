@@ -6,6 +6,6 @@
 <code> <img src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" width="30px" height="30px"/> <code/>
 <code> <img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png" width="30px" height="30px"/> <code/>
 <code> <img src="https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png" width="30px" height="30px"/> <code/>
-<code> <img src="https://cutewallpaper.org/24/react-logo-png/ionic-react-icon-react-native-pngreact-logo-free-transparent-png-images-pngaaacom.png"  width="30px"/> <code/>
+<code> <img src="https://icon-library.com/images/react-icon/react-icon-29.jpg"  width="30px"/> <code/>
 <code> <img src="https://miro.medium.com/max/1400/1*z1U7SJeqK_JJXUYei5uD8w.png" width="30px" height="30px"/> <code/>
 <code> <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="30px" height="30px"/> <code/>
