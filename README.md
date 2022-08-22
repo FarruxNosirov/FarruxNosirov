@@ -9,3 +9,4 @@
 <code> <img src="https://icon-library.com/images/react-icon/react-icon-29.jpg"  width="30px"/> <code/>
 <code> <img src="https://miro.medium.com/max/1400/1*z1U7SJeqK_JJXUYei5uD8w.png" width="30px" height="30px"/> <code/>
 <code> <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="30px" height="30px"/> <code/>
+  <code> <img src="https://img1.pnghut.com/25/10/21/H4N8PREpzt/nodejs-symbol-web-application-redux-state-management.jpg" width="30px" height="30px"/> <code/>
