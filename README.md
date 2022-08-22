@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @FarruxNosirov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Redux
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47lwurdavph7tm0i1rcfh61lqbfmk41do9m0rek32f&rid=giphy.gif&ct=s" width="30px"/> Hi, I’m FarruxNosirov 
+-
 
 
