@@ -2,7 +2,7 @@
 # I work remotely <br/>
 ### languge and tools i work with
 
- <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png?w=360" width="30px" height="30px"/> 
+<spam><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png?w=360" width="30px" height="30px"/><spam/> 
  <img src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" width="30px" height="30px"/> 
  <img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png" width="30px" height="30px"/> 
  <img src="https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png" width="30px" height="30px"/> 
